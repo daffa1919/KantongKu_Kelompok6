@@ -18,7 +18,7 @@ Aplikasi pengelolaan keuangan pribadi berbasis web yang dibangun menggunakan Lar
 
 1. Clone repository:
    ```bash
-   git clone URL_REPOSITORY_KAMU
+   git clone https://github.com/satriyoskibidi/KantongKu_Kelompok6.git
    ```
 
 2. Masuk ke folder project:
